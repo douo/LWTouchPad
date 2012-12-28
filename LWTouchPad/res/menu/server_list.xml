@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/server_list_menu_conn"
+          android:title="@string/label_conn"/>
+    <item android:id="@+id/server_list_menu_cancel"
+           android:title="@string/label_cancel"/>
+
+</menu>
+

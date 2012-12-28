@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LWTouchPad</string>
+    <string name="test">LWTouchPad</string>
+    
+    <string name="label_server_list">Servers List</string>
+    <string name="label_name">Name</string>
+    <string name="label_port">Port</string>
+    <string name="label_psw">Password</string>
+    <string name="label_host">Host</string>
+    <string name="label_conn">Connect</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_return">Return</string>
+    <string name="menu_label_wireless">Use Wireless</string>
+    <string name="menu_label_bluetooth">Use Bluetooth</string>
+    <string name="hint_name">Name,unique,can be blank.</string>
+    <string name="hint_port">Port.</string>
+    <string name="hint_psw">Password,can be blank.</string>
+    <string name="hint_host">Host,host name or ip address.</string>
+    <string name="msg_cannot_blank">This Field cannot be blank.</string>
+    <string name="waiting_dialog_title">Please Wait</string>
+    <string name="msg_server_connecting">Connecting...</string>
+</resources>
